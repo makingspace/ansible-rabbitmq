@@ -1,3 +1,7 @@
 ---
 - src: https://github.com/mrlesmithjr/ansible-etc-hosts.git
-- src: https://github.com/mrlesmithjr/ansible-rabbitmq.git
+
+# Forked version of: src: https://github.com/mrlesmithjr/ansible-rabbitmq.git
+- src: https://github.com/makingspace/ansible-rabbitmq.git
+
+
